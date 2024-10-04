@@ -1,8 +1,8 @@
-## project-analisis-data Bike Sharing
+# project-analisis-data Bike Sharing
 
-# Langkah-Langkah menjalankan project
+## Langkah-Langkah menjalankan project
 
-# notebook.ipynb
+### notebook.ipynb
 1. Download file projectnya.
 2. Kemudian buka Google Colaboratory di browser.
 3. Buat notebook baru di Google Colab.
@@ -10,7 +10,7 @@
 5. Hubungkan ke runtime yang sudah di-hosting dengan mengklik "Connect".
 6. Jalankan kode di notebook dengan menekan tombol "Run" pada setiap cell kode.
 
-# dashboard
+### dashboard
 1. Download file projectnya.
 2. Install Streamlit di terminal dengan mengetikkan pip install streamlit.
 3. Pastikan file CSV (dataset) disimpan dalam folder yang sama dengan file dashboard.py.
