@@ -1,4 +1,4 @@
-# project-analisis-data Bike Sharing
+# PROJECT ANALISIS DATA BIKE SHARING
 
 ## Langkah-Langkah menjalankan project
 
